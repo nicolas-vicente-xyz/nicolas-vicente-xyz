@@ -3,7 +3,7 @@
 > I’m focused on breaking (and securing) complex systems. When I'm not studying for TCM Academy's PNPT and HTB CPTS, I'm learning about OT/ICS security and modern tech.
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff6b00&width=435&lines=Cybersecurity+Enthusiast;Information+Systems+%26+Technology;ICS/OT+Security;Penetration+Tester" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff6b00&width=435&lines=Cybersecurity+Professional;Information+Systems+%26+Technology;ICS/OT+Security;Penetration+Tester" alt="Typing SVG" />
 </p>
 
 > ### 🛠️ Currently Working On
