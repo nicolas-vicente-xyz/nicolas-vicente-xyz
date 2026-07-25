@@ -7,7 +7,7 @@
 
 > ### 🛠️ Currently Working On
 > ---
-> - **Active Lab:** Building Proxmox AD Environment
+> - **Active Lab:** Building Proxmox and Vmware AD Environment
 > - **Research:** Analyzing cybersecurity in ICS/OT
 > - **Scripting:** PowerShell for Automation
 
