@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff6b00&width=435&lines=Breaking+%26+Securing+Systems;Complex+%2F+Critical+Environments;Diverse+Infrastructure;Offensive+%26+Defensive+Security" alt="Typing SVG" />
 </p>
 
-> ### Working On
+> ### Currently Working On
 > ---
 > - **Lab:** A Windows Active Directory for a Small to Medium Sized Enterprise on VMware Workstation Pro
 > - **Packet Analysis:** Analyzing a PCAP file flagged for irregular network behavior in an OT environment
