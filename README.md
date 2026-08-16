@@ -23,12 +23,16 @@
         <img src="https://img.shields.io/badge/Vulhub-324D5B?style=flat-square&logo=docker&logoColor=white" alt="Vulhub" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h5>Technologies & OS</h5>
-<p align="left">
+<td width="50%" valign="top">
+      <h5>Technologies, OS & Hypervisors</h5>
+      <p align="left">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=kali,linux,windows,github,docker&theme=dark" height="28" valign="middle" alt="Core Technologies" />
         </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox VE" />
+        <img src="https://img.shields.io/badge/VMware_Workstation_Pro-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware Workstation Pro" />
       </p>
     </td>
   </tr>
