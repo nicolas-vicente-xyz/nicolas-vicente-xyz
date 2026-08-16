@@ -15,6 +15,7 @@
     <td width="50%" valign="top">
       <h5> Labs Worked On</h5>
       <p>
+        <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red" />
         <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" />
         <img src="https://img.shields.io/badge/VulnHub-324D5B?style=flat-square&logo=vulnhub&logoColor=white" />
         <img src="https://img.shields.io/badge/LabShock-007ACC?style=flat-square&logo=docker&logoColor=white" />
