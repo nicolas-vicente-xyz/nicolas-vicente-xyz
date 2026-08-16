@@ -25,9 +25,9 @@
     </td>
     <td width="50%" valign="top">
       <h5>Technologies & OS</h5>
-      <p align="left">
+<p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=kali,linux,windows,github,docker&theme=dark" valign="middle" alt="Core Technologies" />
+          <img src="https://skillicons.dev/icons?i=kali,linux,windows,github,docker&theme=dark" height="28" valign="middle" alt="Core Technologies" />
         </a>
       </p>
     </td>
