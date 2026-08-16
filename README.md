@@ -25,7 +25,7 @@
       <h5>Technologies Used</h5>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=kali,linux,windows,powershell,python,bash&theme=dark" valign="middle" />
+          <img src="https://skillicons.dev/icons?i=kali,linux,windows,github,docker&theme=dark" valign="middle" />
         </a>
       </p>
     </td>
