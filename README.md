@@ -54,6 +54,6 @@
 
 ### Connect with me
 
-> *Feel free to reach out if you want to collaborate or talk shop.* Email me at **contact@nicolas-vicente[.]xyz**
+> Feel free to reach out if you want to collaborate or talk shop. Email me at **contact@nicolas-vicente[.]xyz**
 
 ---
