@@ -68,7 +68,7 @@ Continuous hands-on labs and practical infrastructure engineering. Continuously 
 
 <details>
 <summary style="display: block; padding: 10px; background-color: #161b22; border-radius: 6px; cursor: pointer;">
-  <a href="](https://github.com/nicolas-vicente-xyz/Multi-Tool-USB-Medicat-Suite"><b>Multi Tool USB Medicat Suite</b></a> &nbsp;|&nbsp; A bootable Swiss Army knife USB built on Ventoy and MediCat v21.12. Includes diagnostic utilities, PortableApps platform, and multi-boot live operating systems (Ubuntu, Debian, Kali, Clonezilla).
+  <a href="https://github.com/nicolas-vicente-xyz/Multi-Tool-USB-Medicat-Suite"><b>Multi Tool USB Medicat Suite</b></a> &nbsp;|&nbsp; A bootable Swiss Army knife USB built on Ventoy and MediCat v21.12. Includes diagnostic utilities, PortableApps platform, and multi-boot live operating systems (Ubuntu, Debian, Kali, Clonezilla).
 </summary>
 
 <br>
@@ -83,7 +83,7 @@ Continuous hands-on labs and practical infrastructure engineering. Continuously 
 
 <details>
 <summary style="display: block; padding: 10px; background-color: #161b22; border-radius: 6px; cursor: pointer;">
-  <a href="](https://github.com/nicolas-vicente-xyz/Enterprise-Network-Lab-with-Cisco-Devices"><b>Enterprise Network Lab with Cisco Devices</b></a> &nbsp;|&nbsp; Contains hands-on learning experience with Cisco networking through college courses, lab simulations, and real hardware configurations.
+  <a href="https://github.com/nicolas-vicente-xyz/Enterprise-Network-Lab-with-Cisco-Devices"><b>Enterprise Network Lab with Cisco Devices</b></a> &nbsp;|&nbsp; Contains hands-on learning experience with Cisco networking through college courses, lab simulations, and real hardware configurations.
 </summary>
 
 <br>
