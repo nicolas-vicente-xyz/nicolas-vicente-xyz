@@ -1,5 +1,5 @@
 ## Hi there, I'm Nicolas Vicente 
-[![Website Shield](https://img.shields.io/badge/Website-nicolas--vicente.xyz-ff6b00?style=flat&logo=firefox)](https://nicolas-vicente.xyz)
+[![Website Shield](https://img.shields.io/badge/Website-nicolas--vicente.com-ff6b00?style=flat&logo=firefox)](https://nicolas-vicente.com)
 [![Email Shield](https://img.shields.io/badge/Email-contact%40nicolas--vicente.xyz-007bff?style=flat&logo=gmail&logoColor=white)](mailto:contact@nicolas-vicente.xyz)
 
 ### About Me
