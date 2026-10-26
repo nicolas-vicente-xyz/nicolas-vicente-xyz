@@ -32,7 +32,7 @@ Continuous hands-on labs and practical infrastructure engineering. Continuously 
 
 </details>
 
----
+<!-- ---
 
 ### Projects, Tools & Writeups
 
@@ -92,6 +92,6 @@ Continuous hands-on labs and practical infrastructure engineering. Continuously 
 - **Key Concepts:** VLAN trunking, inter-VLAN routing, OSPF, port security, and network topology design.
 - **Highlights:** A group enterprise lab project where we configured a Switch dedicated to a specific floor.
 
-</details>
+</details> -->
 
 ---
