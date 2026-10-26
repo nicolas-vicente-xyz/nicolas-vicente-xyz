@@ -32,66 +32,35 @@ Continuous hands-on labs and practical infrastructure engineering. Continuously 
 
 </details>
 
-<!-- ---
+---
 
-### Projects, Tools & Writeups
+### Writeups, Projects & Tools
 
-<details>
-<summary style="display: block; padding: 10px; background-color: #161b22; border-radius: 6px; cursor: pointer;">
-  <a href="https://github.com/nicolas-vicente-xyz/AWS-Hacking-Documentation"><b>AWS Hacking Documentation</b></a> &nbsp;|&nbsp; Contains hands-on experience and technical writeups covering cloud security challenges across Cybr, Pwned Labs, and Hack Smarter platforms. Highlights misconfiguration detection, identity management testing, and privilege escalation techniques.
-</summary>
+<details open>
+<summary><b>Writeups</b></summary>
 
-<br>
+<a href="https://github.com/nicolas-vicente-xyz/AWS-Hacking-Documentation"><b>AWS Hacking Documentation</b></a>
+: Contains hands-on experience and technical writeups covering cloud security challenges across Cybr, Pwned Labs, and Hack Smarter platforms. Highlights misconfiguration detection, identity management testing, and privilege escalation techniques.
+</details>
 
-> Hands-on AWS cloud security environments focusing on IAM policies, S3 bucket security, and more.  
-- **Key Concepts:** S3 bucket enumeration, IAM role privilege escalation, and policy misconfiguration analysis.
-- **Highlights:** Practical walkthroughs demonstrating enumeration vectors, and cloud attack paths.
+
+<details open>
+<summary><b>Projects</b></summary>
+
+<a href="https://github.com/nicolas-vicente-xyz/Multi-Tool-USB-Medicat-Suite"><b>Multi Tool USB Medicat Suite</b></a>
+: A bootable Swiss Army knife USB built on Ventoy and MediCat v21.12. Includes diagnostic utilities, PortableApps platform, and multi-boot live operating systems (Ubuntu, Debian, Kali, Clonezilla).
+
+<a href="https://github.com/nicolas-vicente-xyz/Enterprise-Network-Lab-with-Cisco-Devices"><b>Enterprise Network Lab with Cisco Devices</b></a>
+: Contains hands-on learning experience with Cisco networking through college courses, lab simulations, and real hardware configurations.
+
 
 </details>
 
-<br>
 
-<details>
-<summary style="display: block; padding: 10px; background-color: #161b22; border-radius: 6px; cursor: pointer;">
-  <a href="https://github.com/nicolas-vicente-xyz/VulnHub-Machine-Documentation"><b>VulnHub Machine Documentation</b></a> &nbsp;|&nbsp; Personal documentation and walkthroughs for vulnerable virtual machines hosted on VulnHub, focusing on enumeration, exploitation, and privilege escalation.
-</summary>
+<details open>
+<summary><b>Tools</b></summary>
 
-<br>
+To be included in the near future.
 
-> Detailed technical post-mortems and write-ups for vulnerable target machines.  
-- **Key Concepts:** Host enumeration, web application scanning, and privilege escalation (SUID/Sudo/Cron).
-- **Highlights:** Formatted like professional security reports covering both exploitation and mitigation.
-
-</details>
-
-<br>
-
-<details>
-<summary style="display: block; padding: 10px; background-color: #161b22; border-radius: 6px; cursor: pointer;">
-  <a href="https://github.com/nicolas-vicente-xyz/Multi-Tool-USB-Medicat-Suite"><b>Multi Tool USB Medicat Suite</b></a> &nbsp;|&nbsp; A bootable Swiss Army knife USB built on Ventoy and MediCat v21.12. Includes diagnostic utilities, PortableApps platform, and multi-boot live operating systems (Ubuntu, Debian, Kali, Clonezilla).
-</summary>
-
-<br>
-
-> A bootable diagnostic and triage environment built on Ventoy and MediCat v21.12.  
-- **Key Concepts:** Hardware diagnostics, offline system recovery, live Linux distributions (Kali, Clonezilla), and PortableApps setup.
-- **Highlights:** Designed for field support, IT triage, and malware isolation.
-
-</details>
-
-<br>
-
-<details>
-<summary style="display: block; padding: 10px; background-color: #161b22; border-radius: 6px; cursor: pointer;">
-  <a href="https://github.com/nicolas-vicente-xyz/Enterprise-Network-Lab-with-Cisco-Devices"><b>Enterprise Network Lab with Cisco Devices</b></a> &nbsp;|&nbsp; Contains hands-on learning experience with Cisco networking through college courses, lab simulations, and real hardware configurations.
-</summary>
-
-<br>
-
-> Multi-floor enterprise network simulation utilizing Cisco IOS switches and routers.  
-- **Key Concepts:** VLAN trunking, inter-VLAN routing, OSPF, port security, and network topology design.
-- **Highlights:** A group enterprise lab project where we configured a Switch dedicated to a specific floor.
-
-</details> -->
 
 ---
